@@ -1,0 +1,17 @@
+{
+  "name": "lib_booking",
+  "version": "1.0.1",
+  "authors": [
+    "HaCongThanh <hacongthanh.it.hubt@gmail.com>"
+  ],
+  "description": "Framgia Booking Lib",
+  "main": "/",
+  "keywords": [
+    "libbooking"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/HaCongThanh/lib_booking.git",
+  "ignore": [
+    "README.md"
+  ]
+}

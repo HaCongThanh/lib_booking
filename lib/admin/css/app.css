@@ -247,7 +247,7 @@ dt { color: #515365; font-weight: 500; }
 
 dd { margin-bottom: 10px; }
 
-.fade.in { opacity: 1; }
+/*.fade.in { opacity: 1; }*/
 
 .collapse.in { display: block; }
 
